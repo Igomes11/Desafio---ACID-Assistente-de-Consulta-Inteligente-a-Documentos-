@@ -1,0 +1,11 @@
+/assistente-corporativo-mvp
+├── /documentos
+│   ├── 01_politica_ferias.txt
+│   ├── 02_manual_seguranca_informacao.txt
+│   └── 03_faq_beneficios.txt
+├── main.py (Ponto de entrada da API FastAPI)
+├── database.py (Configuração do SQLite)
+├── rag_engine.py (Lógica de busca e comunicação com a IA)
+├── models.py (Modelos de dados Pydantic e SQLAlchemy)
+├── requirements.txt
+└── .env (Armazenamento de chaves de API)

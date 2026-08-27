@@ -1,0 +1,26 @@
+MANUAL DE SEGURANÇA DA INFORMAÇÃO E PRIVACIDADE
+
+1. Gestão de Identidade e Acessos
+Todo e qualquer acesso a sistemas corporativos, pastas de rede e VPN deve ser formalizado através de um chamado no portal de TI (HelpDesk). Os acessos são concedidos baseados no princípio do "Privilégio Mínimo", garantindo que o colaborador tenha acesso apenas aos recursos estritamente necessários para a sua função.
+
+É obrigatório o uso de Autenticação Multifator (MFA) via aplicativo corporativo para acessar sistemas críticos ou o e-mail fora da rede interna. Em caso de desligamento ou transferência de área, as permissões são revogadas ou ajustadas imediatamente pela equipe de TI.
+
+2. Criação, Armazenamento e Troca de Senhas
+As senhas corporativas devem possuir no mínimo 12 caracteres, combinando obrigatoriamente letras maiúsculas, minúsculas, números e caracteres especiais. 
+
+A validade máxima de uma senha é de 90 dias, momento em que o sistema exigirá a troca, não sendo permitida a reutilização das 5 últimas senhas. A empresa disponibiliza um Cofre de Senhas homologado para armazenamento seguro. É expressamente proibido anotar senhas em cadernos, post-its ou compartilhá-las por mensagens.
+
+3. Uso de Equipamentos Corporativos e Redes
+Os equipamentos fornecidos (notebooks, smartphones) são de uso exclusivamente profissional. A instalação de softwares não homologados, jogos ou aplicativos piratas é proibida e passível de sanções disciplinares. 
+
+As portas USB são bloqueadas para mídias removíveis (pendrives) por padrão. Para o trabalho remoto, é terminantemente proibido conectar os equipamentos corporativos em redes Wi-Fi públicas sem a ativação imediata da VPN corporativa.
+
+4. Política de Mesa Limpa e Tela Bloqueada
+Para proteger dados estratégicos e pessoais, adotamos a Política de Mesa Limpa. Nenhum documento físico contendo informações confidenciais deve ser deixado sobre a mesa ao final do expediente ou durante ausências prolongadas.
+
+Além disso, é obrigatório o bloqueio imediato da tela do computador (Windows + L ou Cmd + Ctrl + Q) sempre que o colaborador se ausentar de sua estação de trabalho. Telas inativas por mais de 5 minutos serão bloqueadas automaticamente pelo sistema.
+
+5. Proteção de Dados e Resposta a Incidentes
+Em conformidade com a LGPD, o tratamento de dados pessoais só é permitido quando houver finalidade de negócio justificada. O compartilhamento de bases de dados com terceiros exige aprovação do DPO e assinatura de termo de confidencialidade.
+
+Caso o colaborador receba e-mails suspeitos solicitando senhas ou pagamentos, não deve clicar em links nem baixar anexos, utilizando o botão de denúncia de Phishing. Em caso de perda ou roubo de equipamentos corporativos, o fato deve ser reportado à TI em até 1 hora para bloqueio remoto.
