@@ -1,4 +1,4 @@
-# Assistente Inteligente Corporativo - MVP (RAG)
+# ACID - ASSISTENTE DE CONSULTA INTELIGENTE A DOCUMENTOS - MVP
 
 ## Sobre o Projeto
 Primeira versão funcional (MVP) de um Assistente Inteligente Corporativo baseado na arquitetura RAG (Retrieval-Augmented Generation). A aplicação responde a perguntas em linguagem natural utilizando exclusivamente documentos internos (políticas, manuais e normas) como fonte de conhecimento, citando a origem da informação e mitigando o risco de alucinações.
